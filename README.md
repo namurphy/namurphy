@@ -1,8 +1,8 @@
-<div align="center"><img src="https://raw.githubusercontent.com/namurphy/namurphy/main/open_metadata_standards.png" width="600"/></div>
+<div {width:600; text-align:center;}>
+<img src="https://raw.githubusercontent.com/namurphy/namurphy/main/open_metadata_standards.png"/>
+</div>
 
 
-
-### Hi there 👋
 
 <!--
 **namurphy/namurphy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
