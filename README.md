@@ -12,5 +12,5 @@ I am an astrophysicist at the [Center for Astrophysics | Harvard &
 Smithsonian]. I am a frequent contributor to [PlasmaPy]: an open 
 source Python package for plasma research and education. I 
 advocate for [writing clean scientific software] and [making plasma
-science open and reproducible]. To find out more of what I have 
-worked on, please check out my [ORCiD profile].
+science open and reproducible]. To find out more about what I have 
+worked on, please check out my [ORCID profile].
