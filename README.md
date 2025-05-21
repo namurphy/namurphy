@@ -1,7 +1,3 @@
-<div {width:600; text-align:center;}>
-<img src="https://raw.githubusercontent.com/namurphy/namurphy/main/open_metadata_standards.png"/>
-</div>
-
 [Center for Astrophysics | Harvard & Smithsonian]: https://www.cfa.harvard.edu/
 [PlasmaPy]: https://github.com/PlasmaPy/PlasmaPy
 [writing clean scientific software]: https://doi.org/10.5281/zenodo.3922956
