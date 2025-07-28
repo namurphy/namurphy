@@ -18,6 +18,6 @@ Diversity Equity Inclusion and Accessibility (DEIA)
 To find out more about what I have worked on, please check out my [ORCID profile].
 
 > [!NOTE]
-> Due to the end of the NSF award supporting the development of PlasmaPy, I
-> it is likely that I will be on an extended leave during the summer of 2025.
+> Due to the end of the National Science Foundation award supporting the development
+> of PlasmaPy, I am an extended leave for most of the summer of 2025.
 > I still plan to attend [PlasmaPy's community meetings] most weeks.
