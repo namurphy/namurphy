@@ -11,10 +11,7 @@ I am a frequent contributor to [PlasmaPy]:
 an open source Python package for plasma research and education.
 I advocate for [writing clean scientific software] and
 [making plasma science open and reproducible].
-In my free time, I am an active member of the American Physical Society (APS)
-Division of Plasma Physics (DPP)
-Diversity Equity Inclusion and Accessibility (DEIA)
-[Organizing Collective Committee] (OCC).
+In my free time, I advocate for the inherent worth and dignity of all people.
 To find out more about what I have worked on, please check out my [ORCID profile].
 
 > [!NOTE]
